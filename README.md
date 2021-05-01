@@ -1,20 +1,15 @@
-# NLW4-Moveit
 <h1 align="center">
-    <img alt="Move.it" title="Move.it" src="public/moveit.svg" />
+    <img alt="Move.it" title="Move.it" src="public/logo-full.svg" />
 </h1>
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projet0</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
-<br>
 
-<p align="center">
-  <img alt="Moveit" src="public/icons/logo.svg" width="120px">
-</p>
 
 ## 🚀 Tecnologias
 
